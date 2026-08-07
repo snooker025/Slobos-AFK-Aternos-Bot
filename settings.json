@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Amar",
+    "username": "Abo_jaber",
     "password": "",
     "type": "online"
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "snppker_25!",
-        "I like to play Minecraft!"
+        "انا عمكم",
+        "snooker_25!",
+        "ارجوا الصمت"
       ]
     },
     "chat-log": true,
@@ -42,9 +42,9 @@
     "max-reconnect-delay": 120000
   },
   "movement": {
-    "enabled": true,
+    "enabled": false,
     "circle-walk": {
-      "enabled": true,
+      "enabled": false,
       "radius": 4,
       "speed": 3000
     },

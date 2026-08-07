@@ -1,15 +1,15 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Amar",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "snooker_25.aternos.me",
     "port": 32571,
-    "version": "26.2",
-    "try-creative": false
+    "version": "",
+    "try-creative": true
   },
   "position": {
     "enabled": true,
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "snppker_25!",
         "I like to play Minecraft!"
       ]
     },
